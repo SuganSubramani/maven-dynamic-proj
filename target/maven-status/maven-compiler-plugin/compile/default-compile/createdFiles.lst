@@ -1,0 +1,4 @@
+com\hibernateweb\controller\Success.class
+com\hibernateweb\controller\UserControllerServlet.class
+com\hibernateweb\bean\User.class
+com\hibernateweb\dao\UserDAO.class
